@@ -13,6 +13,6 @@ Otomatik Ders Programı Oluşturma Programı
 * Kod üzerinde gerekli bağlantı ayarlarını yerel bilgisayarınıza göre yapmanız gereklidir. 
 
 ### Yazarlar
-Kadir Aydoğdu  
-Oltan Gül  
-Saffet Buğra Akabalı 
+- Kadir Aydoğdu  
+- Oltan Gül  
+- Saffet Buğra Akabalı 
