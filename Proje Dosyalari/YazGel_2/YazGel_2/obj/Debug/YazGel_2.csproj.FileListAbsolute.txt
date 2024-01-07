@@ -1,0 +1,89 @@
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\YazGel_2.exe.config
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\YazGel_2.exe
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\YazGel_2.pdb
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csprojResolveAssemblyReference.cache
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Form1.resources
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Properties.Resources.resources
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csproj.GenerateResource.Cache
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.exe
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.pdb
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\YazGel_2.exe.config
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\YazGel_2.exe
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\YazGel_2.pdb
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\Google.Protobuf.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\MySql.Data.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Buffers.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Memory.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\ZstdSharp.dll
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\Google.Protobuf.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\MySql.Data.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Buffers.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Memory.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csproj.AssemblyReference.cache
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Form1.resources
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Properties.Resources.resources
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csproj.GenerateResource.cache
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csproj.CoreCompileInputs.cache
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csproj.CopyComplete
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.exe
+C:\Users\Oltancım\Desktop\YazGel_2\YazGel_2\YazGel_2\obj\Debug\YazGel_2.pdb
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\Google.Protobuf.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\mscorlib.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\MySql.Data.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Buffers.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Memory.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\ZstdSharp.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\Google.Protobuf.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\MySql.Data.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Buffers.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Memory.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\normidna.nlp
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\normnfc.nlp
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\normnfd.nlp
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\normnfkc.nlp
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\bin\Debug\normnfkd.nlp
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Form2.resources
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Form3.resources
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.Form4.resources
+C:\Users\Aspar\Documents\Visual Studio 2012\Projects\YazGel_2\YazGel_2\obj\Debug\YazGel_2.csproj.ResolveComReference.cache
