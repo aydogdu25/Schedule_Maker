@@ -12,7 +12,6 @@ Otomatik Ders Programı Oluşturma Programı
   "Microsoft Excel Object Library" kısmını check etmeniz gereklidir. 
 * Kod üzerinde gerekli bağlantı ayarlarını yerel bilgisayarınıza göre yapmanız gereklidir. 
 
-
 ### Yazarlar
 Kadir Aydoğdu  
 Oltan Gül  
