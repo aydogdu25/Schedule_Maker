@@ -1,16 +1,17 @@
-# Schedule Maker
-Otomatik Ders Programı Oluşturma Programı
+# Schedule Maker - Otomatik Ders Programı Oluşturma Programı
 
 ## Gereksinimler
-* MySQL 8.0 
-* MySql.Data Eklentisi 
+- MySQL 8.0 
+- MySql.Data Eklentisi 
 
 ## Kurulum
-* Veritabanı klasöründeki 1.sql dosyasını MySQL içerisine import etmeniz gerekmektedir. 
-* Visual Studio içerisinde projeyi açtıktan sonra, NuGet Manager'dan MySql.Data eklentisini kurmanız gerekmektedir. 
-* Projeye sağ tıklayıp "Add Referance" diyerek açılan sekmede sol tarafta "COM" başlığı altından "Type Libraries" içerisinden  
-  "Microsoft Excel Object Library" kısmını check etmeniz gereklidir. 
-* Kod üzerinde gerekli bağlantı ayarlarını yerel bilgisayarınıza göre yapmanız gereklidir. 
+
+1. Veritabanı klasöründeki `1.sql` dosyasını MySQL içerisine import edin.
+2. Visual Studio içerisinde projeyi açtıktan sonra, NuGet Manager'dan `MySql.Data` eklentisini kurun.
+3. Projeye sağ tıklayıp "Add Referance" diyerek açılan sekmede sol tarafta "COM" başlığı altından "Type Libraries" içerisinden "Microsoft Excel Object Library" kısmını işaretleyin.
+4. Kod üzerinde gerekli bağlantı ayarlarını yerel bilgisayarınıza göre yapın.
+
+---
 
 ### Yazarlar
 - Kadir Aydoğdu  
